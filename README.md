@@ -48,7 +48,7 @@ This project demonstrates the ability to:
 Translate business problems into SQL queries
 Perform structured data analysis on e-commerce datasets
 Use SQL to extract pricing, discount, and customer behavior insights
-Support business decisions through data-driven analysis
+Support business decisions through data-driven analysis.
 
 **Author**
 Shiva Kashyap
